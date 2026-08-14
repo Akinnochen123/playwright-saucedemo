@@ -1,0 +1,16 @@
+{
+    "validUser": {
+      "userName": "standard_user",
+      "password": "secret_sauce"
+    },
+    "invalidUser": {
+      "userName": "locked_out_user",
+      "password": "wrong_password"
+    },
+    "emptyEmail" : {
+      "email" : "",
+      "password" : "Passworded@123"
+    }
+
+  
+  }
